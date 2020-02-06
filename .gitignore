@@ -1,0 +1,84 @@
+order-management/.DS_Store
+order-management/node_modules
+order-management/www
+
+input-management/.DS_Store
+input-management/node_modules
+input-management/www
+
+home-visit/.DS_Store
+home-visit/node_modules
+home-visit/www
+
+sign-management/.DS_Store
+sign-management/node_modules
+sign-management/www
+
+task-center-new/.DS_Store
+task-center-new/node_modules
+task-center-new/www
+
+overdue-project-query/.DS_Store
+overdue-project-query/node_modules
+overdue-project-query/www
+
+authentication-C old/.DS_Store
+authentication-C old/node_modules
+authentication-C old/www
+
+supervisory-management/.DS_Store
+supervisory-management/node_modules
+supervisory-management/www
+
+payment-C/.DS_Store
+payment-C/node_modules
+payment-C/www
+
+payment-application/.DS_Store
+payment-application/node_modules
+payment-application/www
+
+authentication-C/.DS_Store
+authentication-C/node_modules
+authentication-C/www
+
+login/.DS_Store
+login/node_modules
+login/www
+
+board/.DS_Store
+board/node_modules
+board/www
+
+task-center/.DS_Store
+task-center/node_modules
+task-center/www
+
+task-center-new
+
+associated-bank-card/.DS_Store
+associated-bank-card/node_modules
+associated-bank-card/www
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# demo
+demo
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+/supervisory-management
